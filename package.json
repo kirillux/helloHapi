@@ -1,0 +1,18 @@
+{
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/kirillux/helloHapi.git"
+  },
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "Hello world app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.0.3"
+  }
+}
